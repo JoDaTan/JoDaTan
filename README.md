@@ -1,6 +1,7 @@
 # Welcome to My Data Analyst Journey 📊
 
-Hello there! I'm Jonathan Daniel, and I'm passionate about data analysis and constantly improving my skills in this exciting field. This GitHub repository serves as a record of my journey as a data analyst, showcasing my progress, projects, and the skills I acquire along the way.
+Hello there! I'm Jonathan Daniel and I am passionate about data analysis, and constantly improving my skills in this exciting field. 
+This GitHub repository serves as a record of my journey as a data analyst, showcasing my progress, projects, and the skills I acquire along the way.
 
 ## About Me
 
@@ -22,7 +23,7 @@ Here's what you can expect to discover on my GitHub profile:
 At the moment, I'm focusing on:
 
 - 📊 Exploratory Data Analysis (EDA)
-- 📈 Data Visualization with tools like Python's Matplotlib and Seaborn
+- 📈 Data Visualization with tools PowerBI, Tableau and Dashboard with Microsoft Excel
 - 📉 Statistical Analysis and Hypothesis Testing
 - 💼 Building a portfolio of data analysis projects
 - 🧠 Continuously improving my skills through online courses and hands-on practice
