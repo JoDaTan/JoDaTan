@@ -1,4 +1,4 @@
-# Fee Fi Fo Fum. I smell the blood of a visitor 📊
+# Fee Fi Fo Fum.📊
 
 Hello there! I'm Jonathan Daniel and I am passionate about data analysis, and constantly improving my skills in this exciting field. 
 This GitHub repository serves as a record of my journey as a data analyst, showcasing my progress, projects, and the skills I acquire along the way.
