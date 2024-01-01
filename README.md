@@ -35,6 +35,4 @@ I'm always excited to connect with fellow data enthusiasts, so feel free to reac
 - [LinkedIn](https://www.linkedin.com/in/jonathan12daniels/)
 - [Twitter](https://twitter.com/theJhon_doe)
 
-Let's learn and grow together on this data analysis journey! If you have any questions, suggestions, or if you'd like to collaborate on a project, don't hesitate to get in touch.
-
-Happy data analyzing! 📊📉📈
+Let's learn and grow together on this data analysis journey! If you have any questions or suggestions, or if you'd like to collaborate on a project, don't hesitate to get in touch.
