@@ -13,7 +13,7 @@ My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest 
 
 | Project Title | Description | Tools Used |
 |---------------|-------------|-------------|
-| [Calories Burned Prediction](#) | Predicts calories burned during workouts based on personal and activity data | Python (scikit-learn, pandas, matplotlib and seaborn) |
+| [Calories Burned Prediction](./calorie-expenditure-prediction) | Predicts calories burned during workouts based on personal and activity data | Python (scikit-learn, pandas, matplotlib and seaborn) |
 | [Spotify Listening History Analysis](#) | Analyse personal music trends, top artists, and listening habits over time | Python, Pandas, Numpy, Matplotlib & Seaborn, Spotify API |
 | [Plato Pizza Sales](#) | Leverage sales data to understand the business better and offer insights | PowerBI, Excel |
 
