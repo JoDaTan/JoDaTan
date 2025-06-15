@@ -1,32 +1,37 @@
 # Fee Fi Fo Fum.📊
+Welcome to my GitHub!
 
-Hello there! I'm Jonathan Daniel and I am passionate about data analysis, and constantly improving my skills in this exciting field. 
-This GitHub repository serves as a record of my journey as a data analyst, showcasing my progress, projects, and the skills I acquire along the way.
+My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest in uncovering insights, solving real-world problems, and using data to help make better decisions. I'm currently transitioning into tech, building a strong foundation in Data Analytics, Python, and Machine Learning through learning and hands-on projects.
 
-## About Me
+## 🔬 What I’m working on:
+- Data exploration and visualisation using Power BI
+- Writing efficient queries and transformations with SQL
+- Building predictive models and performing exploratory data analysis (EDA) in Python
+- Documenting and sharing end-to-end workflows for learning and collaboration
 
-- 📈 Data Analyst with a passion for uncovering insights from data.
-- 📚 Lifelong learner committed to expanding my knowledge in data science and analysis.
-- 🌍 Enthusiastic about using data to make informed decisions and solve real-world problems.
+### 📚 Table of Contents
 
-## What You'll Find Here
+| Project Title | Description | Tools Used |
+|---------------|-------------|-------------|
+| [Calories Burned Prediction](#) | Predicts calories burned during workouts based on personal and activity data | Python (scikit-learn, pandas, matplotlib and seaborn) |
+| [Spotify Listening History Analysis](#) | Analyse personal music trends, top artists, and listening habits over time | Python, Pandas, Numpy, Matplotlib & Seaborn, Spotify API |
+| [Plato Pizza Sales](#) | Leverage sales data to understand the business better and offer insights | PowerBI, Excel |
 
-Here's what you can expect to discover on my GitHub profile:
+> ⚡ *More projects coming soon...*
 
-- **Projects:** I'll be sharing various data analysis projects I work on, ranging from data visualization to predictive modeling.
-- **Tutorials and Guides:** I'll document my learning journey and share tutorials, guides, and resources that I find valuable for aspiring data analysts.
-- **Code Samples:** You'll find code snippets, scripts, and notebooks that demonstrate different data analysis techniques and skills.
-- **Skills Showcase:** I'll regularly update the skills I've acquired, highlighting tools, languages, and libraries I'm proficient in.
 
-## Current Focus
+## 🎯 My goals:
+- Use data to support better decisions in business, and every day activities.
+- Launch a career in Data Science.
+- Contribute to open-source or socially impactful data projects
 
-At the moment, I'm focusing on:
 
-- 📊 Exploratory Data Analysis (EDA)
-- 📈 Data Visualization with tools PowerBI, Tableau and Dashboard with Microsoft Excel
-- 📉 Statistical Analysis and Hypothesis Testing
-- 💼 Building a portfolio of data analysis projects
-- 🧠 Continuously improving my skills through online courses and hands-on practice
+## 🛠️ Tools & Skills:
+- SQL (Intermediate): Data extraction, Joins, Aggregation, Filtering
+- Excel (Intermediate): Data Cleaning, Formulas, Pivot Table, Dasboard Reporting
+- PowerBI (Intermediate): DAX, Interactive Reports, Power Pivot
+- Python: Numpy, Pandas, Matplotlib, Plotly, Scikit-learn
+
 
 ## Connect With Me
 
