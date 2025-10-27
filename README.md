@@ -14,7 +14,7 @@ My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest 
 | Project Title | Description | Tools Used |
 |---------------|-------------|-------------|
 | [Stroke Risk Prediction](https://github.com/JoDaTan/Stroke-prediction-with-supervised-machine-learning) | Predicts stroke risk based on health and lifestyle data | Python (scikit-learn, pandas, matplotlib and seaborn) |
-| [PersonalityProfilerML](https://github.com/JoDaTan/PersonalityProfilerML) | PersonalityProfilerML is a machine learning project aimed at classifying individuals as Introverts or Extroverts based on behavioural and social interaction data. | Python (scikit-learn, pandas, matplotlib and seaborn, LogisticRegression, RandomForestClassifier, GradientBosstingClassifier) |
+| [Calorie Expenditure Prediction](https://github.com/JoDaTan/calorie-expenditure-prediction) | A machine learning project that predicts the number of calories burned during a workout based on physiological and activity-related features. | Python (scikit-learn, pandas, matplotlib and seaborn |
 | [Spotify Listening History Analysis](#) | Analyse personal music trends, top artists, and listening habits over time | Python, Pandas, Numpy, Matplotlib & Seaborn, Spotify API |
 | [Plato Pizza Sales](https://github.com/JoDaTan/plato-pizza-analysis) | Leverage sales data to understand the business better and offer insights | PowerBI, Excel |
 
