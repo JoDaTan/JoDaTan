@@ -15,8 +15,7 @@ My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest 
 |---------------|-------------|-------------|
 | [Stroke Risk Prediction](https://github.com/JoDaTan/Stroke-prediction-with-supervised-machine-learning) | Predicts stroke risk based on health and lifestyle data | Python (scikit-learn, pandas, matplotlib and seaborn) |
 | [Calorie Expenditure Prediction](https://github.com/JoDaTan/calorie-expenditure-prediction) | A machine learning project that predicts the number of calories burned during a workout based on physiological and activity-related features. | Python (scikit-learn, pandas, matplotlib and seaborn |
-| [Spotify Listening History Analysis](#) | Analyse personal music trends, top artists, and listening habits over time | Python, Pandas, Numpy, Matplotlib & Seaborn, Spotify API |
-| [Plato Pizza Sales](https://github.com/JoDaTan/plato-pizza-analysis) | Leverage sales data to understand the business better and offer insights | PowerBI, Excel |
+| [Return to Space Challenge](https://github.com/JoDaTan/space-mission) | Use data of space mission from 1957 to 2022 to tell the thrilling story of humanity’s journey to the stars. | PowerBI |
 
 > ⚡ *More projects coming soon...*
 
