@@ -1,6 +1,8 @@
 # Fee Fi Fo Fum.📊
 Welcome to my GitHub!
 
+![Profile Views](https://komarev.com/ghpvc/?username=JoDaTan&color=green)
+
 My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest in uncovering insights, solving real-world problems, and using data to help make better decisions. I'm transitioning into tech, building a strong foundation in Data Analytics, Python, and Machine Learning through learning and hands-on projects.
 
 ## 🔬 What I’m working on:
@@ -27,10 +29,32 @@ My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest 
 
 
 ## 🛠️ Tools & Skills:
-- SQL (Intermediate): Data extraction, Joins, Aggregation, Filtering
-- Excel (Intermediate): Data Cleaning, Formulas, Pivot Table, Dashboard Reporting
-- Power BI (Intermediate): DAX, Interactive Reports, Power Pivot
-- Python: Numpy, Pandas, Matplotlib, Plotly, Scikit-learn
+- **Programming & Data Analysis**
+  - Python: NumPy, Pandas, Matplotlib, Seaborn, Plotly
+  - Scikit-learn: Regression, Classification, Model Evaluation, Hyperparameter Tuning
+  - Streamlit: Interactive dashboards & ML app deployment
+    
+- **Data Visualisation & BI**
+  - Power BI: DAX, Power Query, Interactive Reports, Power Pivot
+  - Excel: Data Cleaning, Formulas, Pivot Tables, Dashboard Reporting
+  
+- **Databases & Querying**
+  - SQL: Table creation and Schema Design, Data extraction, Joins, Aggregations, Filtering, Window Functions
+  - Relational Databases: MySQL, PostgreSQL
+  
+- **Machine Learning & AI**
+  - Supervised Learning: Linear/Logistic Regression, Decision Trees, Random Forest, Gradient Boosting
+  - Anomaly Detection: Isolation Forest & DBSCAN
+  - Unsupervised Learning: Clustering with KMeans, Heirarchical, DBSCAN
+  - Model Interpretation: SHAP, Permutation Importance
+  - Pipeline Implementation: Preprocessing, Feature Engineering & Model training
+  
+- **Version Control & Collaboration**
+  - Git & GitHub: Branching, Pull Requests, Project Documentation
+  
+- **Other Tools**
+  - Jupyter Notebook & VS Code for experimentation and development
+  - Render & GitHub Pages for deployment
 
 
 ## Connect With Me
