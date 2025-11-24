@@ -14,7 +14,7 @@ My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest 
 | Project Title | Description | Tools Used |
 |---------------|-------------|-------------|
 | [Stroke Risk Prediction](https://github.com/JoDaTan/Stroke-prediction-with-supervised-machine-learning) | Predicts stroke risk based on health and lifestyle data | Python (scikit-learn, pandas, matplotlib and seaborn) |
-| [Calorie Expenditure Prediction](https://github.com/JoDaTan/calorie-expenditure-prediction) | A machine learning project that predicts the number of calories burned during a workout based on physiological and activity-related features. | Python (scikit-learn, pandas, matplotlib and seaborn |
+| [Calorie Expenditure Prediction](https://github.com/JoDaTan/calorie-expenditure-prediction) | Built a Streamlit application powered by a machine learning model to estimate the number of calories burned during a given exercise session based on its duration and other relevant factors | Python and Streamlit |
 | [Return to Space Challenge](https://github.com/JoDaTan/space-mission) | Use data of space mission from 1957 to 2022 to tell the thrilling story of humanity’s journey to the stars. | PowerBI |
 
 > ⚡ *More projects coming soon...*
@@ -29,7 +29,7 @@ My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest 
 ## 🛠️ Tools & Skills:
 - SQL (Intermediate): Data extraction, Joins, Aggregation, Filtering
 - Excel (Intermediate): Data Cleaning, Formulas, Pivot Table, Dashboard Reporting
-- PowerBI (Intermediate): DAX, Interactive Reports, Power Pivot
+- Power BI (Intermediate): DAX, Interactive Reports, Power Pivot
 - Python: Numpy, Pandas, Matplotlib, Plotly, Scikit-learn
 
 
@@ -40,4 +40,4 @@ I'm always excited to connect with fellow data enthusiasts, so feel free to reac
 - [LinkedIn](https://www.linkedin.com/in/jonathan12daniels/)
 - [Twitter](https://twitter.com/theJhon_doe)
 
-Let's learn and grow together on this data analysis journey! If you have any questions or suggestions, or if you'd like to collaborate on a project, don't hesitate to get in touch.
+Let's learn and grow together on this data analysis journey! If you have any questions, suggestions, or would like to collaborate on a project, please don't hesitate to get in touch.
