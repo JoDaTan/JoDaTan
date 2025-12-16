@@ -18,8 +18,9 @@ My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest 
 | [Stroke Risk Prediction](https://github.com/JoDaTan/Stroke-prediction-with-supervised-machine-learning) | Predicts stroke risk based on health and lifestyle data | Python (scikit-learn, pandas, matplotlib and seaborn) |
 | [Calorie Expenditure Prediction](https://github.com/JoDaTan/calorie-expenditure-prediction) | Built a Streamlit application powered by a machine learning model to estimate the number of calories burned during a given exercise session based on its duration and other relevant factors | Python and Streamlit |
 | [Return to Space Challenge](https://github.com/JoDaTan/space-mission) | Use data of space mission from 1957 to 2022 to tell the thrilling story of humanity’s journey to the stars. | PowerBI |
+| [Spotify User Analysis](https://github.com/JoDaTan/Spotify-streaming-history) | An SQL-based analysis of my Spotify listening history using star schema to discover music preferences and listening behaviour. | SQL - PostgreSQL |
 
-> ⚡ *More projects coming soon...*
+> ⚡ *[More projects here...](https://github.com/JoDaTan?tab=repositories).*
 
 
 ## 🎯 My goals:
@@ -43,6 +44,7 @@ My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest 
   - Relational Databases: MySQL, PostgreSQL
   
 - **Machine Learning & AI**
+  - Time Series forecasting: FaceBook Prophet, Linear Regression 
   - Supervised Learning: Linear/Logistic Regression, Decision Trees, Random Forest, Gradient Boosting
   - Anomaly Detection: Isolation Forest & DBSCAN
   - Unsupervised Learning: Clustering with KMeans, Heirarchical, DBSCAN
