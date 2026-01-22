@@ -3,7 +3,10 @@ Welcome to my GitHub!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoDaTan&color=green)
 
-My name is Jonathan Daniel. I'm an aspiring Data Scientist with a deep interest in uncovering insights, solving real-world problems, and using data to help make better decisions. I'm transitioning into tech, building a strong foundation in Data Analytics, Python, and Machine Learning through learning and hands-on projects.
+I work with data to extract, clean, and analyse information that supports better business and operational decisions. 
+My projects focus on SQL-based analysis, Python data exploration, Machine Learning, ETL workflows, and dashboard-driven insights using Power BI and Streamlit.
+
+This GitHub contains hands-on projects covering exploratory data analysis, data transformation, reporting, and applied modelling, with an emphasis on data quality, clarity, and real-world use cases.
 
 ## 🔬 What I’m working on:
 - Data exploration and visualisation using Power BI
