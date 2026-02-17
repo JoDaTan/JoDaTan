@@ -3,70 +3,97 @@ Welcome to my GitHub!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoDaTan&color=green)
 
-I work with data to extract, clean, and analyse information that supports better business and operational decisions. 
-My projects focus on SQL-based analysis, Python data exploration, Machine Learning, ETL workflows, and dashboard-driven insights using Power BI and Streamlit.
+I solve business problems with data because I've seen what happens when you don't.
 
-This GitHub contains hands-on projects covering exploratory data analysis, data transformation, reporting, and applied modelling, with an emphasis on data quality, clarity, and real-world use cases.
+5+ years managing operations data at Nigerian Breweries taught me something most analysts never learn: bad data doesn't just create wrong reports. It causes missed deliveries, revenue loss, angry customers, and operational chaos.
 
-## 🔬 What I’m working on:
-- Data exploration and visualisation using Power BI
-- Writing efficient queries and transformations with SQL
-- Building predictive models and performing exploratory data analysis (EDA) in Python
-- Documenting and sharing end-to-end workflows for learning and collaboration
+Now I build analytics solutions that prevent those problems.
 
-### 📚 Table of Contents
+Every project here shows I deliver clean data, clear insights, and measurable results.
 
-| Project Title | Description | Tools Used |
-|---------------|-------------|-------------|
-| [Stroke Risk Prediction](https://github.com/JoDaTan/Stroke-prediction-with-supervised-machine-learning) | Predicts stroke risk based on health and lifestyle data | Python (scikit-learn, pandas, matplotlib and seaborn) |
-| [Calorie Expenditure Prediction](https://github.com/JoDaTan/calorie-expenditure-prediction) | Built a Streamlit application powered by a machine learning model to estimate the number of calories burned during a given exercise session based on its duration and other relevant factors | Python and Streamlit |
-| [Return to Space Challenge](https://github.com/JoDaTan/space-mission) | Use data of space mission from 1957 to 2022 to tell the thrilling story of humanity’s journey to the stars. | PowerBI |
-| [Spotify User Analysis](https://github.com/JoDaTan/Spotify-streaming-history) | An SQL-based analysis of my Spotify listening history using star schema to discover music preferences and listening behaviour. | SQL - PostgreSQL |
+---
 
+## What I Do
+I turn operational data into business decisions.
+- Write SQL queries that extract insights from enterprise systems
+- Build Power BI dashboards that drive action
+- Design ETL pipelines that transform chaos into clean datasets
+- Deploy ML models that predict outcomes with measurable accuracy
+
+---
+
+## 📚 Featured Projects
+### 🎵 [Spotify User Analysis](https://github.com/JoDaTan/Spotify-streaming-history)
+
+**SQL | PostgreSQL | ETL | Star Schema**
+
+**The Problem:** Extract user listening insights from raw JSON streaming data.
+
+**What I Built:** Complete ETL pipeline transforming messy data into a clean Star Schema database. Advanced SQL queries (joins, CTEs, window functions) to uncover listening patterns.
+
+**The Result:** Data quality improved from 75% ➡️ 98%. Identified top artists, genres, peak listening times, and skip rate trends.
+
+---
+
+### 🚀 [Return to Space Challenge](https://github.com/JoDaTan/space-mission)
+**Power BI | DAX | Data Modeling | Interactive Dashboards**
+
+**The Problem:** 5,000+ space missions spanning 65 years needed a clear visualisation to tell humanity's space exploration story.
+
+**What I Built:** Cleaned mission data, designed a Star Schema model, and created an interactive Power BI dashboard with DAX measures tracking success rates and reliability trends across countries and organisations.
+
+**The Result:** Identified most reliable launch providers through performance metrics. Visualised the evolution of the space race in executive-friendly dashboards.
+
+---
+
+### 🔥 [Calorie Expenditure Prediction](https://github.com/JoDaTan/calorie-expenditure-prediction)
+**Python | Machine Learning | Streamlit | Production Deployment**
+
+**The Problem:** Fitness professionals needed accurate, real-time calorie burn estimates for different exercise sessions.
+
+**What I Built:** End-to-end regression model with preprocessing pipeline, hyperparameter tuning, and SHAP interpretability. Deployed as a Streamlit web application.
+
+**The Result:** Achieved R² 0.997 accuracy. The model identified exercise duration and heart rate as primary predictors. Delivered production-ready tool accessible to non-technical users.
+
+---
+
+### 🏥 [Stroke Risk Prediction](https://github.com/JoDaTan/Stroke-prediction-with-supervised-machine-learning)
+**Python | Classification | Imbalanced Data | Healthcare Analytics**
+
+**The Problem:** Predict stroke risk from health and lifestyle data to enable early intervention.
+
+**What I Built:** Classification pipeline comparing multiple algorithms (Logistic Regression, Random Forest, Gradient Boosting). Addressed class imbalance with SMOTE. Evaluated models using precision, recall, and F1-score.
+
+**The Result:** Identified key risk factors through feature importance analysis. Demonstrated ability to handle imbalanced datasets common in real business problems.
+
+---
 > ⚡ *[More projects here...](https://github.com/JoDaTan?tab=repositories).*
+---
 
+## Tech Stack
+**Core Skills:**  
+SQL (PostgreSQL, MySQL), Power BI (DAX, Power Query), Python (Pandas, NumPy), Excel (Advanced)
 
-## 🎯 My goals:
-- Use data to support better business decisions and everyday activities.
-- Launch a career in Data Science.
-- Contribute to open-source or socially impactful data projects
+**Machine Learning:**  
+Scikit-learn, regression, classification, clustering, anomaly detection, model evaluation, hyperparameter tuning, SHAP and feature importance
 
+**Visualisation:**  
+Power BI, Streamlit, Matplotlib, Seaborn, Plotly
 
-## 🛠️ Tools & Skills:
-- **Programming & Data Analysis**
-  - Python: NumPy, Pandas, Matplotlib, Seaborn, Plotly
-  - Scikit-learn: Regression, Classification, Model Evaluation, Hyperparameter Tuning
-  - Streamlit: Interactive dashboards & ML app deployment
-    
-- **Data Visualisation & BI**
-  - Power BI: DAX, Power Query, Interactive Reports, Power Pivot
-  - Excel: Data Cleaning, Formulas, Pivot Tables, Dashboard Reporting
-  
-- **Databases & Querying**
-  - SQL: Table creation and Schema Design, Data extraction, Joins, Aggregations, Filtering, Window Functions
-  - Relational Databases: MySQL, PostgreSQL
-  
-- **Machine Learning & AI**
-  - Time Series forecasting: FaceBook Prophet, Linear Regression 
-  - Supervised Learning: Linear/Logistic Regression, Decision Trees, Random Forest, Gradient Boosting
-  - Anomaly Detection: Isolation Forest & DBSCAN
-  - Unsupervised Learning: Clustering with KMeans, Heirarchical, DBSCAN
-  - Model Interpretation: SHAP, Permutation Importance
-  - Pipeline Implementation: Preprocessing, Feature Engineering & Model training
-  
-- **Version Control & Collaboration**
-  - Git & GitHub: Branching, Pull Requests, Project Documentation
-  
-- **Other Tools**
-  - Jupyter Notebook & VS Code for experimentation and development
-  - Render & GitHub Pages for deployment
+**Tools & Platforms:**  
+Git/GitHub, Jupyter, VS Code, SAP, Linux
 
+---
 
-## Connect With Me
+## What I'm Looking For
+Data analytics roles where:
+- SQL and Python are core skills.
+- Machine learning or statistical modelling is part of the work.
+- Business context matters as much as technical execution
+- Stakeholder communication is valued (translating insights into action)
 
-I'm always excited to connect with fellow data enthusiasts, so feel free to reach out to me on:
-
-- [LinkedIn](https://www.linkedin.com/in/jonathan12daniels/)
-- [Twitter](https://twitter.com/theJhon_doe)
-
-Let's learn and grow together on this data analysis journey! If you have any questions, suggestions, or would like to collaborate on a project, please don't hesitate to get in touch.
+## Let's Connect
+📧 **Email:** broodyjoe@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/jonodaniels](https://www.linkedin.com/in/jonodaniels/)  
+🐦 **Twitter:** [@theJhon_doe](https://twitter.com/theJhon_doe)  
+📍 **Location:** Lagos, Nigeria
