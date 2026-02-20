@@ -23,7 +23,7 @@ I turn operational data into business decisions.
 ---
 
 ## 📚 Featured Projects
-### 🏥 [Customer Churn Analysis](https://github.com/JoDaTan/customer-churn-analysis)
+### 👥📉 [Customer Churn Analysis](https://github.com/JoDaTan/customer-churn-analysis)
 **Python | Exploratory Data Analysis | Customer Analytics**
 
 **The Problem:** Maven Music is experiencing a high customer churn rate (43%), with a significant number of users cancelling their subscriptions shortly after joining.
