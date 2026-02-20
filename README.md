@@ -23,6 +23,17 @@ I turn operational data into business decisions.
 ---
 
 ## 📚 Featured Projects
+### 🏥 [Customer Churn Analysis](https://github.com/JoDaTan/customer-churn-analysis)
+**Python | Exploratory Data Analysis | Customer Analytics**
+
+**The Problem:** Maven Music is experiencing a high customer churn rate (43%), with a significant number of users cancelling their subscriptions shortly after joining.
+
+**What I Built:** A business-focused customer churn analysis for Maven Music aimed at identifying customer churn drivers and recommendations to improve customer retention.
+
+**Key Finding:** Day 4 is the Magic retention threshold. Customers with 4+ active days have 0% churn.
+
+---
+
 ### 🎵 [Spotify User Analysis](https://github.com/JoDaTan/Spotify-streaming-history)
 
 **SQL | PostgreSQL | ETL | Star Schema**
@@ -54,17 +65,6 @@ I turn operational data into business decisions.
 **What I Built:** End-to-end regression model with preprocessing pipeline, hyperparameter tuning, and SHAP interpretability. Deployed as a Streamlit web application.
 
 **The Result:** Achieved R² 0.997 accuracy. The model identified exercise duration and heart rate as primary predictors. Delivered production-ready tool accessible to non-technical users.
-
----
-
-### 🏥 [Stroke Risk Prediction](https://github.com/JoDaTan/Stroke-prediction-with-supervised-machine-learning)
-**Python | Classification | Imbalanced Data | Healthcare Analytics**
-
-**The Problem:** Predict stroke risk from health and lifestyle data to enable early intervention.
-
-**What I Built:** Classification pipeline comparing multiple algorithms (Logistic Regression, Random Forest, Gradient Boosting). Addressed class imbalance with SMOTE. Evaluated models using precision, recall, and F1-score.
-
-**The Result:** Identified key risk factors through feature importance analysis. Demonstrated ability to handle imbalanced datasets common in real business problems.
 
 ---
 > ⚡ *[More projects here...](https://github.com/JoDaTan?tab=repositories).*
