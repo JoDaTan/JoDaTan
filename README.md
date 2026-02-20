@@ -58,7 +58,7 @@ I turn operational data into business decisions.
 ---
 
 ### 🔥 [Calorie Expenditure Prediction](https://github.com/JoDaTan/calorie-expenditure-prediction)
-**Python | Machine Learning | Streamlit | Production Deployment**
+**Python | Machine Learning | Streamlit | Healthcare Analytics**
 
 **The Problem:** Fitness professionals needed accurate, real-time calorie burn estimates for different exercise sessions.
 
